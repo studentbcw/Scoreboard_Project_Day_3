@@ -1,0 +1,33 @@
+/* 💻 Add your background image here  */
+.bg-image {
+  background-image: url('./assets/dominik-kuhn-kEHp1gUJNO8-unsplash.jpg');
+  background-position: center;
+  background-size: cover;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  color: white;
+}
+
+button {
+  background-color: #388a64;
+  color: #e6e6e6;
+  border: 1px solid transparent;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  border-radius: .25rem;
+  cursor: pointer;
+}
+
+.text-center {
+  text-align: center !important;
+}
+
+.score-spot {
+  font-size: 92px;
+  font-family: Arial, Helvetica, sans-serif;
+  min-height: 40vh;
+  margin: auto;
+}
