@@ -38,12 +38,5 @@ Now, you can change the value of the `scoreElement` by setting the innerText of 
 
 We still need to call our draw() function! Let's put draw() at the bottom of our other function (the one that increases the score).
 
-Now, watch as every time you click the increase score button, the score goes up!
 
-## STRETCH GOALS
 
-If you finish early, try adding another button that decreases the score by one each time it's clicked.
-
-OR
-
-In the `style.css` file, find the `.bg-image` CSS class, and change the background to another background in our assets folder.

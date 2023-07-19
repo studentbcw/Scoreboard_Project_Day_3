@@ -1,6 +1,6 @@
 /* 💻 Add your background image here  */
 .bg-image {
-  background-image: url('./assets/dominik-kuhn-kEHp1gUJNO8-unsplash.jpg');
+  background-image: url('https://i.ytimg.com/vi/rf-z0jmTyAs/mqdefault.jpg');
   background-position: center;
   background-size: cover;
 }
@@ -8,12 +8,12 @@
 html {
   height: 100%;
   width: 100%;
-  color: white;
+  color: rgb(148, 13, 13);
 }
 
 button {
-  background-color: #388a64;
-  color: #e6e6e6;
+  background-color: #c300ff;
+  color: #0037ff;
   border: 1px solid transparent;
   padding: .375rem .75rem;
   font-size: 1rem;
@@ -26,7 +26,7 @@ button {
 }
 
 .score-spot {
-  font-size: 92px;
+  font-size: 10px;
   font-family: Arial, Helvetica, sans-serif;
   min-height: 40vh;
   margin: auto;
